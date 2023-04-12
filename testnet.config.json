@@ -1,7 +1,7 @@
 {
   "liteservers": [
     {"id":{"key":"lapiCVpZr/S6GyW4JjffRnenA1euERlu6n4Kt/LR9CY=", "@type":"pub.ed25519"}, "port":"46732", "ip":-1062731730, "ws":"ws://192.168.0.46:46733" }
-    {"id":{"key":"rQlRWhlPnRoVXAr4EoL7lrNyxSTPZJ6Ph2O9rDsYDtA=", "@type":"pub.ed25519"}, "port":"46732", "ip":-1062731731, "ws":"ws://192.168.0.45:46733" }
+    "id":{"key":"rQlRWhlPnRoVXAr4EoL7lrNyxSTPZJ6Ph2O9rDsYDtA=", "@type":"pub.ed25519"}, "port":"46732", "ip":-1062731731, "ws":"ws://192.168.0.45:46733" 
     {
       "ip": -1062731734, 
       "id": {
